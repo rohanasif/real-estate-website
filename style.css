@@ -39,3 +39,12 @@ body {
 .grey {
     color: #C4C4C4;
 }
+
+.blue-3 {
+    background: linear-gradient(90deg, #60BBEE -2.22%, #2387C0 67.22%);
+}
+
+.blue-circle {
+    background: #2387C0;
+}
+
